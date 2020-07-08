@@ -1,0 +1,8 @@
+.photo{
+    width:50vw;
+    height:50vh;
+    border:10px solid black;
+    object-fit: cover;
+    border-radius:20px;
+}
+
